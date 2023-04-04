@@ -1,0 +1,32 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+
+:root {
+/*	--cnvs-themecolor: #83b341;*/
+/*	--cnvs-themecolor-rgb: 131, 179, 65;*/
+	--cnvs-section-margin: 5rem;
+	--cnvs-link-color: #4c653a;
+}
+
+.img-overlap img {
+	max-width: ;
+}
+
+.bg-custom-green {
+	background-color: #eaece6;
+}
+
+#logo-img {
+	max-width: 250px;
+	max-height: 250px;
+	border-radius: 125px;
+}
+
+.copyright-links {
+	font-size: 0.8em;
+}
